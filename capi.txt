@@ -1,3 +1,6 @@
-Maglione S L XL
-Maglietta M L XL
-Jeans S M L 
+Maglione 30 S-L-XL
+Maglietta 15 M-L-XL
+Jeans 50 S-M-L
+Pantaloni 20 S-M-L-XL
+Mutande 5 S-M-L-XL
+Calzini 10 S-M-L-XL 

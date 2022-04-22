@@ -1,2 +1,6 @@
-dario 0 Utente
-franco 0 Utente
+dario Utente 50
+franco Utente 150
+cringio Utente 25
+gesualdo Utente 40
+ileana Utente 100
+pippo Utente 300
